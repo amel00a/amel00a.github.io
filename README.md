@@ -1,0 +1,2 @@
+# polomia.pl
+polomia.pl
